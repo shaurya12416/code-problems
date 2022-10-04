@@ -26,12 +26,15 @@ Hello, Java.
 
 
 ## Solution --->
-public class Solution {
+<!-- public class Solution {
+
     public static void main(String[] args) {
         System.out.println("Hello, World.");
   System.out.println("Hello, Java.");
-    }
-} 
+   }
+}  -->
+
+
 
 
 #### My submission (https://www.hackerrank.com/namanjoshi1909)
