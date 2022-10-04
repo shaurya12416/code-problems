@@ -17,3 +17,10 @@ Print Hello, Java. on the second line.
 ##### Sample Output ::
 Hello, World
 Hello, Java.
+
+
+## solution -->
+![Screenshot (654)](https://user-images.githubusercontent.com/111630741/193745103-af43ae53-850f-4471-a9bd-1b028e7c03dc.png)
+
+
+#### submission details --> you can move to my profile and check my submission (https://www.hackerrank.com/namanjoshi1909)...
